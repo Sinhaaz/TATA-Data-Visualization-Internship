@@ -1,4 +1,6 @@
 # TATA-Data-visualization-Internship
+## Certificate
+[Data Visualisation](Tata Data Visualisation Certificate.pdf)
 
 ## Task - 1
 ### Framing the Business Scenario:
