@@ -46,3 +46,6 @@ Answer : [Github](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/
  >- Line chart
  >- Area chart
  >- Column chart
+
+ - Chart Guide:
+ <img src = "Chart suggestions.jpeg">
