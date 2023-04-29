@@ -22,27 +22,27 @@ Answer : [Github](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/
 
 ### Chart Guide:
  - Comparison:
- -- Column chart
- -- Bar chart
- -- Line chart
- - - Scatter plot
+ >- Column chart
+ >- Bar chart
+ >- Line chart
+ >- Scatter plot
  
  - Distribution(Spread of data values over categorised and continous values):
- - - Histogram
- - - Box plot
- - - KDE plot
+ >- Histogram
+ >- Box plot
+ >- KDE plot
  
  - Breakup of a whole chart(various parts comprise the whole):
- - - Pie chart
- - - Donut chart
- - - Stacked Column chart
- - - Stacked Bar chart
+ >- Pie chart
+ >- Donut chart
+ >- Stacked Column chart
+ >- Stacked Bar chart
  
  - Relationship charts(relationship between two variables):
- - - Scatter plot
- - - Line chart
+ >- Scatter plot
+ >- Line chart
  
  - Trend charts(trends of values over times and categories/also known as time series data):
- - - Line chart
- - - Area chart
- - - Column chart
+ >- Line chart
+ >- Area chart
+ >- Column chart
