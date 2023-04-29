@@ -1,6 +1,6 @@
 # TATA-Data-visualization-Internship
 ## Certificate
-[Github](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Tata%20Data%20Visualisation%20Certificate.pdf)
+[Certificate](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Tata%20Data%20Visualisation%20Certificate.pdf)
 
 ## Task - 1
 ### Framing the Business Scenario:
@@ -12,7 +12,7 @@
  
  - So, prepare 8 questions(4 for the Chief Executive Officer & 4 for the Chief Marketing Officer)
   
- Answer : [Github](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Task%201.txt) 
+ Answer : [Task 1](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Task%201.txt) 
  
  ## Task - 2
  ### Choosing the Rights Visual:
@@ -20,7 +20,7 @@
 
  - You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources section. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
 
-Answer : [Github](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Task%202.txt)
+Answer : [Task 2](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Task%202.txt)
 
 ### Chart Guide:
  - Comparison:
@@ -88,6 +88,6 @@ Answer :
 ### Communicating Insights and Analysis
 Develop a script and record a video presenting your findings to the CEO and CMO based on the four questions they asked and the visuals you created in the previous tasks.
 
-Answer : [Github](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Task%204.mp4)
+Answer : [Task 4](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/blob/main/Task%204.mp4)
 
 **Note :This video isn't made by me**
