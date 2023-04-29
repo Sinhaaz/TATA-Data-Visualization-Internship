@@ -22,9 +22,9 @@ Answer : [Github](https://github.com/Sinhaaz/TATA-Data-visualization-Internship/
 
 ### Chart Guide:
  - Comparison:
- - - Column chart
- - - Bar chart
- - - Line chart
+ -- Column chart
+ -- Bar chart
+ -- Line chart
  - - Scatter plot
  
  - Distribution(Spread of data values over categorised and continous values):
