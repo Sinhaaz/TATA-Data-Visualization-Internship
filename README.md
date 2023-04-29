@@ -7,4 +7,4 @@
  - For this task, you are only required to draft the questions. Make sure to think both quantitatively and qualitatively.
 
  - You’ve been provided a dataset in the resources below to use as the basis for your exploration. Review this data, taking note of what information has been provided, what insights you can garner, and what is relevant to both the CEO and CMO respectively.
-  - So, prepare 8 questions(4 for the CEO & 4 for the CMO)
+  - So, prepare 8 questions(4 for the Chief Executive Officer & 4 for the Chief Marketing Officer)
