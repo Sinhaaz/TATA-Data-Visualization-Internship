@@ -1,0 +1,19 @@
+CEO :-
+
+1.Which region is providing the highest revenue to the company? And why?
+
+2.Is there a seasonal sale concept?
+
+3.Which team in the organisation do you feel are most engaged? And why?
+
+4.What keeps employees happy in your opininon? Is there any facilites provided to them by the company?
+
+CMO :-
+
+1.What do you consider the biggest challenges for a CMO these days?
+
+2.Who are the customers that have repeated the most? How much are they contributing to revenue?
+
+3.What is the percentage of customers who are repeating their orders?
+
+4.Time Interval between two consecutive orders ordered by the same customer?
